@@ -1,0 +1,13 @@
+# 2018-03-09-next-steps
+Tasks may work:
+
+1. generate 3d-voxels or imigrate dicoms to json for the ease of oberavations. Note that sometimes it is handy when we want to print all datas in a console. 
+That is almost impossible.
+
+2. write some algorithms to modify the voxels, based on the obsevations you do previously and afterward.
+
+3. search on line for the 3d cluster algorithms
+
+4. if find one, then learn how to 3d- rebuild and visualize the result.
+
+That is all.
